@@ -1,2 +1,5 @@
-# aws-cli-git
-Docker image with aws-cli and git
+# aws-cli
+Docker image with aws-cli and some additional packages:
+
+- git
+- jq
